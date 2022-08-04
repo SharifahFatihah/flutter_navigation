@@ -1,6 +1,6 @@
-# day7
+# Flutter Navigation
 
-A new Flutter project.
+A Flutter navigation project by mobile development module.
 
 ## Getting Started
 
